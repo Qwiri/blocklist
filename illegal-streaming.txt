@@ -1,9 +1,14 @@
 voe.sx
 animekisa.tv
 voe-network.net
-streamtape.com
-streamtape.net
 3xpl.stream
+videovard.to
+evoload.io
+netu.tv
+upstream.io
+streamz.cc
+dood.to
+doodstream.com
 
 s.to
 serien.sx
@@ -43,3 +48,7 @@ kinox.direct
 kinox.pub
 kinox.express
 kinox.bz
+
+streamtape.com
+streamtape.net
+streamtape.site
