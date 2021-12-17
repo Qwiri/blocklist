@@ -1,62 +1,62 @@
-voe.sx
-animekisa.tv
-voe-network.net
-3xpl.stream
-videovard.to
-evoload.io
-netu.tv
-upstream.io
-streamz.cc
-dood.to
-doodstream.com
+0.0.0.0 voe.sx
+0.0.0.0 animekisa.tv
+0.0.0.0 voe-network.net
+0.0.0.0 3xpl.stream
+0.0.0.0 videovard.to
+0.0.0.0 evoload.io
+0.0.0.0 netu.tv
+0.0.0.0 upstream.io
+0.0.0.0 streamz.cc
+0.0.0.0 dood.to
+0.0.0.0 doodstream.com
 
-hdfilme.org
-hdfilme.cx
-hdfilme.top
+0.0.0.0 hdfilme.org
+0.0.0.0 hdfilme.cx
+0.0.0.0 hdfilme.top
 
-vivo.sx
-vupload.com
-vidoza.net
+0.0.0.0 vivo.sx
+0.0.0.0 vupload.com
+0.0.0.0 vidoza.net
 
-s.to
-serien.sx
-serienstream.sx
-serienstream.to
+0.0.0.0 s.to
+0.0.0.0 serien.sx
+0.0.0.0 serienstream.sx
+0.0.0.0 serienstream.to
 
-bs.to
-burningseries.co
-burningseries.sx
-burningseries.ac
-burningseries.vc
-burningseries.cx
-burningseries.nz
-burningseries.se
+0.0.0.0 bs.to
+0.0.0.0 burningseries.co
+0.0.0.0 burningseries.sx
+0.0.0.0 burningseries.ac
+0.0.0.0 burningseries.vc
+0.0.0.0 burningseries.cx
+0.0.0.0 burningseries.nz
+0.0.0.0 burningseries.se
 
-kinox.to
-kinos.to
-kinox.tv
-kinox.me
-kinoz.to
-kinox.io
-kinox.sx
-kinox.am
-kinox.gratis
-kinox.mobi 
-kinox.sh
-kinox.lol
-kinox.wtf
-kinox.fun
-kinox.fyi
-kinox.cloud
-kinox.click
-kinox.tube
-kinox.club
-kinox.digital
-kinox.direct
-kinox.pub
-kinox.express
-kinox.bz
+0.0.0.0 kinox.to
+0.0.0.0 kinos.to
+0.0.0.0 kinox.tv
+0.0.0.0 kinox.me
+0.0.0.0 kinoz.to
+0.0.0.0 kinox.io
+0.0.0.0 kinox.sx
+0.0.0.0 kinox.am
+0.0.0.0 kinox.gratis
+0.0.0.0 kinox.mobi 
+0.0.0.0 kinox.sh
+0.0.0.0 kinox.lol
+0.0.0.0 kinox.wtf
+0.0.0.0 kinox.fun
+0.0.0.0 kinox.fyi
+0.0.0.0 kinox.cloud
+0.0.0.0 kinox.click
+0.0.0.0 kinox.tube
+0.0.0.0 kinox.club
+0.0.0.0 kinox.digital
+0.0.0.0 kinox.direct
+0.0.0.0 kinox.pub
+0.0.0.0 kinox.express
+0.0.0.0 kinox.bz
 
-streamtape.com
-streamtape.net
-streamtape.site
+0.0.0.0 streamtape.com
+0.0.0.0 streamtape.net
+0.0.0.0 streamtape.site
