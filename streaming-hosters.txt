@@ -1,0 +1,11 @@
+0.0.0.0 evoload.io # Evoload.IO - Evolution of Hosting
+0.0.0.0 netu.tv # Netu.tv videohosting - Upload
+0.0.0.0 vidoza.net # Vidoza | free video hosting and video player
+0.0.0.0 dood.to
+0.0.0.0 doodstream.com # DoodStream
+0.0.0.0 upstream.io
+0.0.0.0 videovard.to # VideoVard
+0.0.0.0 vivo.sx # vıvo | Your Personal Video Cloud
+0.0.0.0 voe-network.net
+0.0.0.0 voe.sx # VOE | Content Delivery Network (CDN) & Video Cloud
+0.0.0.0 vupload.com # VUP
